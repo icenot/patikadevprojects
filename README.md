@@ -1,2 +1,0 @@
-# patikadevprojects
-ınsertion sort
